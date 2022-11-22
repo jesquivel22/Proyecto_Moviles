@@ -1,5 +1,7 @@
 export 'package:fl_components/widgets/custom_body.dart';
 
+export 'package:fl_components/widgets/custom_body.dart';
+
 export 'package:fl_components/widgets/custom_grafico.dart';
 
 export 'package:fl_components/widgets/custom_botton_menu.dart';
